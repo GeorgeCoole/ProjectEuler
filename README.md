@@ -9,7 +9,7 @@ This repository contains the code for my solutions to the problems. I've chosen 
 
 The vast majority of these solutions are written in Python (specifically Python 3) because it's the language that I know best. The solutions are only uploaded here once I've checked my answers over at Project Euler and verfied that I got the correct answer. 
 
-If you got here by searching for answers to the Project Euler problems, I only ask that you don't use my solutions to cheat on the problems. The fun is in the problem solving, after all. For each problem I have a little write-up of how I interpreted the problem and designed my algorithm. That's a good resource if you need help. If you've already solved the problems and are just searching for other solutions to the problems to see how other people tackled it, welcome! 
+If you got here by searching for answers to the Project Euler problems, I only ask that you don't use my solutions to cheat on the problems. The fun is in the problem solving, after all. If you've already solved the problems and are just searching for other solutions to the problems to see how other people tackled it, welcome! 
 
 Thank you for dropping by! Have a nice day!
 
