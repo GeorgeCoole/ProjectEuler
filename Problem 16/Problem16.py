@@ -10,7 +10,6 @@ def digitSum(n):
     return theSum
 
 #program main
-
 testNum = 2**1000
 num = str(testNum)
 print(digitSum(num))
