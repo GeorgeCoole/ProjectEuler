@@ -1,8 +1,8 @@
-/* 
+/***************************************************** 
 Project Euler Problem 12
 Triangle Numbers
 Find the first triangle number with over 500 divisors
-*/
+*******************************************************/
 
 //import modules
 #include <iostream>
